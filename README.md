@@ -1,5 +1,7 @@
 # TypeScript Todo List
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9e9bc53-867d-45cc-bcca-2189fcbc4fb3/deploy-status)](https://app.netlify.com/sites/tstdl/deploys)
+
 A simple and intuitive todo list application built with TypeScript. The app allows users to add, edit, and remove tasks, providing an efficient way to manage daily activities.
 
 ### Features
