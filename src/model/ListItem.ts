@@ -14,19 +14,19 @@ export default class ListItem implements Item {
   get id() {
     return this._id;
   }
-  set id(val: string) {
-    this.id = val;
+  set id(id: string) {
+    this._id = id;
   }
   get item() {
     return this._item;
   }
-  set item(val: string) {
-    this.item = val;
+  set item(item: string) {
+    this._item = item;
   }
   get checked() {
     return this._checked;
   }
-  set checked(val: boolean) {
-    this.checked = val;
+  set checked(checked: boolean) {
+    this._checked = checked;
   }
 }
